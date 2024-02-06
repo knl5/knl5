@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @knl5
-- 👀 I’m interested in web development and design.
-- 🌱 I’m currently in web development studies.
+- 👀 I’m interested in web development, coordination of web project and marketing.
+- 🌱 I’m currently looking for jobs opportunities.
 - 💞️ I’m looking to collaborate on interesting projects and work in collaboration with you.
 - 📫 How to reach me kanelle.05.99@gmail.com
 
